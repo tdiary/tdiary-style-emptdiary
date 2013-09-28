@@ -25,12 +25,6 @@ tdiary_style.rb and slightly edited as follows:
 * split_unless_plugin() is inserted before each collect()
 * Regexp is chanegd from ^ to \A
 
-== Copyright
-Copyright 2003 zunda <zunda at freeshell.org>
-
-Permission is granted for use, copying, modification, distribution,
-and distribution of modified versions of this work under the terms
-of GPL version 2 or later.                                                  
 =end
 =begin ChangeLog
 * Mon Feb 17, 2003 zunda <zunda at freeshell.org>
