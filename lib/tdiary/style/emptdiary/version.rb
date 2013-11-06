@@ -1,4 +1,4 @@
-module Tdiary
+module TDiary
   module Style
     module Emptdiary
       VERSION = "0.0.2"

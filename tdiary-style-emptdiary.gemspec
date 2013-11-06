@@ -5,7 +5,7 @@ require 'tdiary/style/emptdiary/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "tdiary-style-emptdiary"
-  spec.version       = Tdiary::Style::Emptdiary::VERSION
+  spec.version       = TDiary::Style::Emptdiary::VERSION
   spec.authors       = ["SHIBATA Hiroshi"]
   spec.email         = ["shibata.hiroshi@gmail.com"]
   spec.description   = %q{emptDiary Style for tDiary}

@@ -1,8 +1,6 @@
-# Tdiary::Style::Emptdiary
+# TDiary::Style::Emptdiary
 
-This style is an extension to the tDiary style which allows plug-in
-arguments to have empty lines. In short, this style preserves empty
-lines between <% and %> when splltting the input into sections.
+This style is an extension to the tDiary style which allows plug-in arguments to have empty lines. In short, this style preserves empty lines between <% and %> when splltting the input into sections.
 
 The latest version of this file can be downloaded from [http://zunda.freeshell.org/d/misc/style/emptdiary/emptdiary_style.rb](http://zunda.freeshell.org/d/misc/style/emptdiary/emptdiary_style.rb)
 
