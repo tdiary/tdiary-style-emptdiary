@@ -1,6 +1,6 @@
 module TDiary
   module Style
-    module Emptdiary
+    class Emptdiary
       VERSION = "0.0.2"
     end
   end
