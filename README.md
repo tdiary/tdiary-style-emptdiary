@@ -6,17 +6,13 @@ The latest version of this file can be downloaded from [http://zunda.freeshell.o
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your tDiary's Gemfile.local:
 
     gem 'tdiary-style-emptdiary'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install tdiary-style-emptdiary
 
 ## Usage
 
